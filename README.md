@@ -1,4 +1,18 @@
-# IEEEHacks_DSA
+# Hacks_DSA
+
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/072arushi/IEEEHacks_DSA?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/072arushi/IEEEHacks_DSA?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/072arushi/IEEEHacks_DSA?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/072arushi/IEEEHacks_DSA?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/072arushi/IEEEHacks_DSA?style=for-the-badge&color=brightgreen)
+![GitHub top language](https://img.shields.io/github/languages/top/072arushi/IEEEHacks_DSA?style=for-the-badge&color=aqua)
+![GitHub last commit](https://img.shields.io/github/last-commit/072arushi/IEEEHacks_DSA?style=for-the-badge&color=blue)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+![Github Repo Size](https://img.shields.io/github/repo-size/072arushi/IEEEHacks_DSA?style=for-the-badge&color=aqua)
+
+</div>
 
 Algorithms and data structures are fundamental to efficient code and good software design. Creating and designing excellent algorithms is required for being an exemplary programmer. This repository's goal is to demonstrate how to correctly implement common data structures and algorithms in the simplest and most elegant ways.
 
@@ -25,6 +39,7 @@ This repository consists of various machine learning projects, and all of the pr
  * Code- You need to add the full code including th driving code and the code must be well commented.
 
 ## 🧮 Workflow
+- Star this repository
 - Fork the repository
 - Clone your forked repository using terminal or gitbash.
 - Make changes to the cloned repository
@@ -35,3 +50,11 @@ This repository consists of various machine learning projects, and all of the pr
  * **Do not make a new issue unless required.**
  * If your PR is closed without any comment, it means that your PR does not meet the above criteria. Make sure your PR is **not Duplicate** and it should be **well-documented**.
  * Add a readme to your file explaining your code using the algorithm. Also, you need to write the full code including the driver code and add comments in your code too.
+ 
+<h2>✨Top Contributors</h2>   
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+
+<a href="https://github.com/072arushi/IEEEHacks_DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=072arushi/IEEEHacks_DSA" />
+</a>
